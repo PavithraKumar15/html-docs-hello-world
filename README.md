@@ -1,12 +1,6 @@
-elephant
-lion
-giraffe
-zebra
-tiger
 
-Apple
-banana
-cherry
+apple
 orange
+banana
 grapes
-
+plums
